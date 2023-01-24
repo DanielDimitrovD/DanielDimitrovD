@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielDimitrovD
 - 👀 I’m interested in Computer Science and Data Structures and Algorithms
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on interesting projects with cool technologies
 
 <!---
